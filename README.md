@@ -4,7 +4,7 @@
 - 🌱 I have 6 years of experience in software engineering, specializing in full-stack web development.
 - 💞️ I'm looking to collaborate on open-source projects related to Mobile or web development.
 - 📫 You can reach me via email at [Gmail](mailto:benmos16@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/moses-benjamin-82b8a7194/)
-- ⚡ Fun fact: I love to code and build things. Creating solutions and bringing ideas to life through software is my passion.
+- ⚡ Fun fact: I love to code and building things. Creating solutions and bringing ideas to life through software is my passion.
 
 
 # 💻 My favorite tools and technologies
